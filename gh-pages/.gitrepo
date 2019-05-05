@@ -1,0 +1,12 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/git-commands/git-subrepo#readme
+;
+[subrepo]
+	remote = https://github.com/vikash-kothary/ocean-email.git
+	branch = gh-pages
+	commit = 85027909f17126ea4864eb1ef0a9b49c2bd5010b
+	parent = 85027909f17126ea4864eb1ef0a9b49c2bd5010b
+	method = merge
+	cmdver = 0.4.0
